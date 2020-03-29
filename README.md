@@ -1,0 +1,1 @@
+This project is a application to learning about React, React Native and Node JS Server
